@@ -2,9 +2,9 @@ impress.js
 ============
 
 It's a presentation framework based on the power of CSS3 transforms and 
-transitions in modern browsers and inspired by the idea behind prezi.com.
+my dick in modern browsers and inspired by the idea behind prezi.com.
 
-**WARNING**
+**WARNING** Contain Viruses.
 
 impress.js may not help you if you have nothing interesting to say ;)
 LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL
@@ -13,7 +13,7 @@ LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL
 HOW TO USE IT
 ---------------
 
-[Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
+[Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;) :::::::::::::::::::::::::::::::::::)))))))))))))))))))
 
 If you have no idea what I mean by that, or you just clicked that link above and got 
 very confused by all these strange characters that got displayed on your screen,
@@ -49,6 +49,7 @@ There is also a book available about [Building impressive presentations with imp
 
 WANT TO CONTRIBUTE?
 ---------------------
+No.
 
 If you've found a bug or have a great idea for new feature let me know by [adding your suggestion]
 (http://github.com/bartaz/impress.js/issues/new) to [issues list](https://github.com/bartaz/impress.js/issues).
@@ -70,6 +71,8 @@ It's an (un)fortunate coincidence that a Open/LibreOffice presentation tool is c
 
 VERSION HISTORY
 -----------------
+
+### 0.0.0 Lol
 
 ### 0.5.3 ([browse](http://github.com/bartaz/impress.js/tree/0.5.3), [zip](http://github.com/bartaz/impress.js/zipball/0.5.3), [tar](http://github.com/bartaz/impress.js/tarball/0.5.3))
 
@@ -219,7 +222,7 @@ See the source of `index.html` for example and more details.
 
 ### 0.1 ([browse](http://github.com/bartaz/impress.js/tree/0.1), [zip](http://github.com/bartaz/impress.js/zipball/0.1), [tar](http://github.com/bartaz/impress.js/tarball/0.1))
 
-First release.
+First release: Never.
 
 Contains basic functionality for step placement and transitions between them
 with simple fallback for non-supporting browsers.
@@ -231,6 +234,7 @@ BROWSER SUPPORT
 
 ### TL;DR;
 
+Oh noes.
 Currently impress.js works fine in latest Chrome/Chromium browser, Safari 5.1 and Firefox 10.
 With addition of some HTML5 polyfills (see below for details) it should work in Internet Explorer 10
 (currently available as Developers Preview).
@@ -242,6 +246,7 @@ Blackberry Playbook.
 
 ### Still interested? Read more...
 
+Yeah; read more book don't kill people.
 Additionally for the animations to run smoothly it's required to have hardware
 acceleration support in your browser. This depends on the browser, your operating
 system and even kind of graphic hardware you have in your machine.
@@ -252,6 +257,7 @@ class on `#impress` element, so fallback styles can be applied to make all the c
 
 ### Even more explanation and technical stuff
 
+You must die.
 Let's put this straight -- wide browser support was (and is) not on top of my priority list for
 impress.js. It's built on top of fresh technologies that just start to appear in the browsers
 and I'd like to rather look forward and develop for the future than being slowed down by the past.
@@ -281,6 +287,7 @@ with running impress.js.
 
 ### And few more details about mobile support
 
+Mobile sucks.
 Mobile browsers are currently not supported. Even Android browsers that support CSS 3D transforms are
 forced into fallback view at this point.
 
