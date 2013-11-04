@@ -4,13 +4,50 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=1024" />
 	<title>La vie privée sur Internet</title>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
-    <link href="css/impress-demo.css" rel="stylesheet" />
-    
-    <link rel="shortcut icon" href="favicon.png" />
-    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+	<link href="css/style.css" rel="stylesheet" media="screen"/>
 </head>
-<body>
-	
+<body class="impress-not-supported">
+	<div class="container">
+		<!-- Message d'erreur si le navigateur est trop vieux -->
+		<div class="fallback-message">
+			<p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+			<p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+		</div>
+
+		<div id="impress">
+			<div class="step" data-x="0" data-y="0">
+				<div class="jumbotron">
+					<h1>La vie privée sur Internet</h1>
+					<img src="img/main/private.jpg" alt="Private" class="img-thumbnail center-block">
+					<p class="pull-right">Duc, Alexis, Eloi &amp; Simon</p>
+				</div>
+			</div>
+
+			<div class="step" data-x="0" data-y="1000">
+				<div class="jumbotron">
+					<h1>La vie privée sur Internet</h1>
+					<img src="img/main/private.jpg" alt="Private" class="img-thumbnail center-block">
+					<p class="pull-right">Duc, Alexis, Eloi &amp; Simon</p>
+				</div>
+			</div>
+
+			<!-- Overview -->
+			<div id="overview" class="step" data-x="3000" data-y="1500" data-scale="10"></div>
+		</div>
+	</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+
+	<!-- Impress.js -->
+	<script src="js/impress.js"></script>
+	<script>impress().init();</script>
 </body>
 </html>
