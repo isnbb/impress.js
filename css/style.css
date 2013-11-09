@@ -1,5 +1,18 @@
 /* FALLBACK MSG */
 
+body {
+    font-family: 'PT Sans', sans-serif;
+    min-height: 740px;
+
+    background: rgb(215, 215, 215);
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
+    background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+}
+
 .impress-supported .fallback-message {
     display: none;
 }
@@ -12,7 +25,7 @@
 
 .step {
     position: relative;
-    width: 900px;
+    width: 1200px;
     padding: 40px;
     margin: 20px auto;
 
@@ -67,6 +80,24 @@
 
 /* SLIDES */
 
+.title-big, .title-part {
+    text-align: center;
+}
+.title-big h1 {
+    font-size: 2em;
+}
+
+.title-part h2 {
+    font-size: 1.5em;
+}
+
+.impress-on-title #part1, .impress-on-title #part2 {
+    opacity: 0;
+}
+
+.impress-on-part1 #title, .impress-on-part2 #title {
+    opacity: 0;
+}
 
 /*
     And the "it's in 3D" step again brings some 3D typography - just for fun.

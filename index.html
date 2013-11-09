@@ -8,42 +8,44 @@
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
 	<link href="css/style.css" rel="stylesheet" media="screen"/>
 </head>
 <body class="impress-not-supported">
 	<div class="container">
 		<!-- Message d'erreur si le navigateur est trop vieux -->
-		<div class="fallback-message">
+		<div class="fallback-message alert alert-danger">
 			<p>Le navigateur <b>est un peu à la ramasse</b> et peut ne pas supporter toutes les fonctionnalités requises par impress.js.</p>
 			<p>Pour plus de magie, utiliser de préférence la dernière version de <b>Lynx</b> (ou de <b>Firefox</b>).</p>
 		</div>
 
 		<div id="impress">
-			<div class="step" data-x="0" data-y="0">
-				<div class="jumbotron">
+			<div id="title" class="step title-big" data-x="0" data-y="0">
+				<div>
 					<h1>La vie privée sur Internet</h1>
-					<img src="img/main/private.jpg" alt="Private" class="img-thumbnail center-block">
+					<img src="img/main/private.jpg" alt="Private" class="img-thumbnail">
 					<p class="pull-right">Duc, Alexis, Eloi &amp; Simon</p>
 				</div>
 			</div>
 
-			<div class="step" data-x="1000" data-y="0">
-				<div class="jumbotron">
-					<h2 class="text-primary">1. Qui nous surveille et dans quel but ?</h2>
-					<img src="img/main/spied-man.jpg" alt="Qui nous surveille ?" class="img-thumbnail center-block">
+			<div id="part1" class="step title-part" data-x="0" data-y="0" data-z="-2000" data-rotate="90">
+				<div>
+					<h2>1. Qui nous surveille et dans quel but&nbsp;?</h2>
+					<img src="img/main/spied-man.jpg" alt="Qui nous surveille ?" class="img-thumbnail center-block" style="height: 225px;">
 				</div>
 			</div>
 
-			<div class="step" data-x="2000" data-y="0">
-				<div class="jumbotron">
-					<h2 class="text-primary">2. Pourquoi garder le contrôle de nos données est-il important ?</h2>
+			<div id="part2" class="step title-part" data-x="0" data-y="1300" data-z="-2000" data-rotate="90">
+				<div>
+					<h2>2. Pourquoi garder le contrôle de nos données est-il important&nbsp;?</h2>
 					<img src="img/main/spied-man-questionning.jpg" alt="Pourquoi garder le contrôle de mes données ?" class="img-thumbnail center-block">
 				</div>
 			</div>
 
-			<div class="step" data-x="3000" data-y="0">
-				<div class="jumbotron">
-					<h2 class="text-primary">3. Comment se défendre ?</h2>
+			<div id="part3" class="step title-part" data-x="0" data-y="2600" data-z="-2000" data-rotate="90">
+				<div>
+					<h2>3. Comment se défendre&nbsp;?</h2>
 					<img src="img/main/spied-man-revolting.jpg" alt="Comment se défendre ?" class="img-thumbnail center-block">
 				</div>
 			</div>
