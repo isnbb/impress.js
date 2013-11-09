@@ -16,7 +16,7 @@
   2.4.1 - Julian Assange, WikiLeaks `Arnaud`  
   2.4.2 - Edward Snowden `Simon`  
 
-3 - Les solutions pour avoir une vie privée sur Internet, il en existe, ce n'est pas réservé à l'élite !
+3 - Comment se défendre ?
 ===
 
 3.1 - Comment se défendre grâce à la loi  
