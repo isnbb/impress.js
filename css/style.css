@@ -55,8 +55,13 @@ body {
     -o-transition:      opacity 1s;
     transition:         opacity 1s;
 }
+.impress-enabled .title-part {
+    opacity: 0;
+}
 
-.impress-enabled .step.active { opacity: 1 }
+.impress-enabled .step.active {
+    opacity: 1
+}
 
 .slide q {
     display: block;
@@ -80,15 +85,17 @@ body {
 
 /* SLIDES */
 
-.title-big, .title-part {
+.title-big, .title-part, .title-subpart {
     text-align: center;
 }
 .title-big h1 {
     font-size: 2em;
 }
-
 .title-part h2 {
     font-size: 1.5em;
+}
+.title-subpart h3 {
+    font-size: 1.3em;
 }
 
 .impress-on-title #part1, .impress-on-title #part2 {
@@ -211,6 +218,7 @@ body {
 .impress-on-overview .step {
     opacity: 1;
     cursor: pointer;
+    background-color: rgba(0,0,0,0.07);
 }
 
 /*
