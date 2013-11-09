@@ -83,7 +83,7 @@ body {
 }
 
 
-/* SLIDES */
+/* TITLES */
 
 .title-big, .title-part, .title-subpart {
     text-align: center;
@@ -106,36 +106,17 @@ body {
     opacity: 0;
 }
 
-/*
-    And the "it's in 3D" step again brings some 3D typography - just for fun.
+/* SLIDES */
 
-    Because we want to position <span> elements in 3D we set transform-style to
-    `preserve-3d` on the paragraph.
-    It is not needed by webkit browsers, but it is in Firefox. It's hard to say
-    which behaviour is correct as 3D transforms spec is not very clear about it.
-*/
-#its-in-3d p {
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style:    preserve-3d; /* Y U need this Firefox?! */
-    -ms-transform-style:     preserve-3d;
-    -o-transform-style:      preserve-3d;
-    transform-style:         preserve-3d;
+/* 1.1.2. GOOGLE */
+
+#google-products .row img {
+    max-width: 100%;
 }
 
-/*
-    Below we position each word separately along Z axis and we want it to transition
-    to default position in 0.5s when the step gets `present` class.
-
-    Quite a simple idea, but lot's of styles and prefixes.
-*/
-#its-in-3d span,
-#its-in-3d b {
-    display: inline-block;
-    -webkit-transform: translateZ(40px);
-    -moz-transform:    translateZ(40px);
-    -ms-transform:     translateZ(40px);
-    -o-transform:      translateZ(40px);
-     transform:        translateZ(40px);
+#google-products .row img {
+    position: relative;
+    top: 350px;
 
     -webkit-transition: 0.5s;
     -moz-transition:    0.5s;
@@ -144,77 +125,52 @@ body {
     transition:         0.5s;
 }
 
-#its-in-3d .have {
-    -webkit-transform: translateZ(-40px);
-    -moz-transform:    translateZ(-40px);
-    -ms-transform:     translateZ(-40px);
-    -o-transform:      translateZ(-40px);
-    transform:         translateZ(-40px);
+#google-products.present .row img, .impress-on-google-centralized .row img {
+    top: 0px;
 }
 
-#its-in-3d .you {
-    -webkit-transform: translateZ(20px);
-    -moz-transform:    translateZ(20px);
-    -ms-transform:     translateZ(20px);
-    -o-transform:      translateZ(20px);
-    transform:         translateZ(20px);
+.impress-on-google-centralized #google-products {
+    opacity: 1;
 }
 
-#its-in-3d .noticed {
-    -webkit-transform: translateZ(-40px);
-    -moz-transform:    translateZ(-40px);
-    -ms-transform:     translateZ(-40px);
-    -o-transform:      translateZ(-40px);
-    transform:         translateZ(-40px);
+#google-centralized {
+    text-align: center;
+    height: 100%;
+}
+#google-centralized img.up {
+    width: 25%;
+    opacity: 0;
+    position: relative;
+}
+#google-centralized.present img.up {
+    opacity: 0.8;
+
+    -webkit-animation: google_move_arrow 3s linear 0s infinite;
+    -moz-animation: google_move_arrow 3s linear 0s infinite;
+    -o-animation: google_move_arrow 3s linear 0s infinite;
+    animation: google_move_arrow 3s linear 0s infinite;
+}
+@-webkit-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@-moz-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@-o-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+
+#google-because {
+    opacity: 0;
+}
+.impress-on-google-because #google-why {
+    opacity: 0;
+}
+.impress-on-google-because #google-because {
+    opacity: 1;
+}
+#google-because img.avatar {
+    width: 50%;
 }
 
-#its-in-3d .its {
-    -webkit-transform: translateZ(60px);
-    -moz-transform:    translateZ(60px);
-    -ms-transform:     translateZ(60px);
-    -o-transform:      translateZ(60px);
-    transform:         translateZ(60px);
-}
-
-#its-in-3d .in {
-    -webkit-transform: translateZ(-10px);
-    -moz-transform:    translateZ(-10px);
-    -ms-transform:     translateZ(-10px);
-    -o-transform:      translateZ(-10px);
-    transform:         translateZ(-10px);
-}
-
-#its-in-3d .footnote {
-    font-size: 32px;
-
-    -webkit-transform: translateZ(-10px);
-    -moz-transform:    translateZ(-10px);
-    -ms-transform:     translateZ(-10px);
-    -o-transform:      translateZ(-10px);
-    transform:         translateZ(-10px);
-}
-
-#its-in-3d.present span,
-#its-in-3d.present b {
-    -webkit-transform: translateZ(0px);
-    -moz-transform:    translateZ(0px);
-    -ms-transform:     translateZ(0px);
-    -o-transform:      translateZ(0px);
-    transform:         translateZ(0px);
-}
-
-/*
-    The last step is an overview.
-    There is no content in it, so we make sure it's not visible because we want
-    to be able to click on other steps.
-
-*/
+/* OVERVIEW */
 #overview { display: none }
 
-/*
-    We also make other steps visible and give them a pointer cursor using the
-    `impress-on-` class.
-*/
 .impress-on-overview .step {
     opacity: 1;
     cursor: pointer;
