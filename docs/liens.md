@@ -16,37 +16,45 @@ Google mis en demeure par la CNIL : http://www.lemonde.fr/technologies/article/2
 
 ## 1.2 - Les États : contrôle des citoyens (NSA = États-Unis et "Infrastructure mutualisée" = France)
 
-NSA en France : http://korben.info/infrastructure-de-mutualisation.html
-
-FBI : http://korben.info/le-fbi-espionne-les-recherche-des-internautes-americains.html
-
-NSA : http://www.pcinpact.com/news/83927-la-nsa-recupere-en-moyenne-500-000-carnets-dadresses-par-jour.htm
-
-http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depuis-sept-ans.htm
-
-http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm
+NSA, schema interactif : http://www.lemonde.fr/technologies/visuel_interactif/2013/08/27/plongee-dans-la-pieuvre-de-la-cybersurveillance-de-la-nsa_3467057_651865.html (version allegee : http://www.lemonde.fr/mmpub/edt/zip/20131021/095437/index.html)
 
 http://www.pcinpact.com/news/82320-nsa-israel-manipule-regulierement-donnees-personnelles-americaines.htm
 
-http://www.pcinpact.com/news/82232-la-nsa-espionne-ponctuellement-contenu-smartphones.htm
+NSA : http://www.lesechos.fr/economie-politique/monde/dossier/0203094820415-la-nsa-veut-ecouter-tout-tout-le-temps-623111.php
 
-Alcatel et la surveillance des appels telephoniques par la NSA : http://reflets.info/alcatel-interesse-la-nsa-decryptage-dun-article-du-monde/
+Accords commerciaux et censure : http://www.framablog.org/index.php/post/2013/10/18/geektionnerd-tafta
+
+### 1.2.1 - Les programmes _downstream_ (acces direct aux serveurs des entreprises)
+
+FBI : http://korben.info/le-fbi-espionne-les-recherche-des-internautes-americains.html
+
+http://www.pcinpact.com/news/83927-la-nsa-recupere-en-moyenne-500-000-carnets-dadresses-par-jour.htm
+
+http://www.pcinpact.com/news/82232-la-nsa-espionne-ponctuellement-contenu-smartphones.htm
 
 NSA qui pirate Google et Yahoo! : http://korben.info/nsa-pirate-google-yahoo.html
 
-NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
-
-NSA : http://www.lesechos.fr/economie-politique/monde/dossier/0203094820415-la-nsa-veut-ecouter-tout-tout-le-temps-623111.php
+### 1.2.2 - Les programmes _upstream_ (interception dans l'infrastructure : cables...)
 
 Upstream, l'espionnage des cables sous-marins : http://www.lemonde.fr/technologies/article/2013/10/21/l-ampleur-de-l-espionnage-mondial-par-la-nsa_3499756_651865.html
 
-NSA, schema interactif : http://www.lemonde.fr/technologies/visuel_interactif/2013/08/27/plongee-dans-la-pieuvre-de-la-cybersurveillance-de-la-nsa_3467057_651865.html
-
-La NSA interressee par wanadoo et Alcatel : http://www.lemonde.fr/technologies/article/2013/10/21/les-services-secrets-americains-tres-interesses-par-wanadoo-et-alcatel-lucent_3499762_651865.html
+Alcatel et la surveillance des appels telephoniques par la NSA : http://reflets.info/alcatel-interesse-la-nsa-decryptage-dun-article-du-monde/
 
 Merkel sous ecoute -> expliquez moi pourquoi la NSA est censee lutter contre les 4 Cavaliers de l'Infocalypse : http://www.france24.com/fr/20131027-angela-merkel-nsa-obama-depuis-2002-spiegel
 
-Accords commerciaux et censure : http://www.framablog.org/index.php/post/2013/10/18/geektionnerd-tafta
+La NSA interressee par Wanadoo et Alcatel : http://www.lemonde.fr/technologies/article/2013/10/21/les-services-secrets-americains-tres-interesses-par-wanadoo-et-alcatel-lucent_3499762_651865.html
+
+### 1.2.3 - Programmes Bullrun (USA) et Edgehill (anglais) : backdoors
+
+http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm
+
+### 1.2.4 - XKeyScore, le moteur de recherche
+
+### 1.2.5 - Et en France ?
+
+Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
+
+NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
 
 ### 1.2.1 - Les backdoors de la NSA
 
@@ -99,6 +107,8 @@ Open source : http://tom.preston-werner.com/2011/11/22/open-source-everything.ht
 Bresil vs. logiciels proprios : http://www.framablog.org/index.php/post/2013/11/07/bresil-snowden-logiciel-libre
 
 ### 3.2.4 - Tor
+
+http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depuis-sept-ans.htm
 
 ### 3.2.5 - DuckDuckGo
 
