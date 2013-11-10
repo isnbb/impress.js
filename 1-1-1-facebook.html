@@ -51,7 +51,7 @@
 				</div>
 			</div>
 
-			<div id="camembert" class="step text-center" data-x="1000" data-y="-1000" data-z="-500" data-rotate="180" data-rotate-y="180">
+			<div id="camembert" class="step text-center" data-x="1000" data-y="-1200" data-z="-500" data-rotate="180" data-rotate-y="180">
 				<div class="row">
 					<div class="col-md-4">
 						<div id="camembert-peau"></div>
@@ -62,7 +62,8 @@
 						<p>Orientation politique</p>
 					</div>
 					<div class="col-md-4">
-						<div id="camembert-"></div>
+						<div id="camembert-sexe"></div>
+						<p>Orientation sexuelle</p>
 					</div>
 
 					<div class="col-md-4">
@@ -70,24 +71,27 @@
 						<p>Confession religieuse</p>
 					</div>
 					<div class="col-md-4">
-						<div id="camembert-"></div>
+						<div id="camembert-fumeur"></div>
+						<p>Fumeur</p>
 					</div>
 					<div class="col-md-4">
-						<div id="camembert-"></div>
+						<div id="camembert-alcool"></div>
+						<p>Consomation d'alcool</p>
 					</div>
 
 					<div class="col-md-4"></div>
 					<div class="col-md-4">
-						<div id="camembert-"></div>
+						<div id="camembert-drogue"></div>
+						<p>Consomation de drogue</p>
 					</div>
 				</div>
 			</div>
 
-			<div id="like-button" class="step text-center" data-x="1000" data-y="-1500" data-z="-500" data-rotate="180" data-rotate-y="180">
+			<div id="like-button" class="step text-center" data-x="1000" data-y="-1700" data-z="-500" data-rotate="180" data-rotate-y="180">
 				<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fgithub.com%2Fisnbb%2Fla-vie-privee-sur-internet&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35&amp;appId=296898627000571" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowTransparency="true"></iframe>
 			</div>
 
-			<div id="demo-pub" class="step text-center" data-x="1000" data-y="-1800" data-z="-500" data-rotate="180" data-rotate-y="180">
+			<div id="demo-pub" class="step text-center" data-x="1000" data-y="-2000" data-z="-500" data-rotate="180" data-rotate-y="180">
 				<a href="https://www.facebook.com/ads/create" target="_blank">https://www.facebook.com/ads/create</a>
 			</div>
 			
@@ -100,8 +104,8 @@
 				<p>Vous n'avez <strong>aucun</strong> contrôle sur les informations que Facebook possède, vous <strong>ne savez pas</strong> exactement ce qu'ils savent de vous, vous <strong>ne savez pas</strong> à qui ils diffusent ces informations, vous <strong>ne pouvez pas</strong> supprimer ces informations.</p>
 			</div>
 
-			<div id="lien-suite" class="step text-center" data-x="3000" data-y="-3200" data-rotate="-90" data-rotate-y="180">
-				<a href="1-1-2-google.html"><img src="img/1/1/1/down.svg" alt="Suite"></a>
+			<div class="step next-part" data-x="3000" data-y="-3200" data-rotate="-90" data-rotate-y="180">
+				<a href="1-1-2-google.html" title="Aller au prochain chapitre"><img src="img/1/1/1/down.svg" alt="Suite" class="next"></a>
 			</div>
 
 			<!-- Overview -->
@@ -121,8 +125,12 @@
 	<script>
 		var colors = ["green","red"];
 		Raphael("camembert-peau", 200, 200).pieChart(100, 100, 75, [95, 5], [], "#fff", colors);
-		Raphael("camembert-politique", 200, 200).pieChart(100, 100, 75, [95, 5], [], "#fff", colors);
-		Raphael("camembert-religion", 200, 200).pieChart(100, 100, 75, [95, 5], [], "#fff", colors);
+		Raphael("camembert-politique", 200, 200).pieChart(100, 100, 75, [85, 15], [], "#fff", colors);
+		Raphael("camembert-sexe", 200, 200).pieChart(100, 100, 75, [80, 20], [], "#fff", colors);
+		Raphael("camembert-religion", 200, 200).pieChart(100, 100, 75, [82, 18], [], "#fff", colors);
+		Raphael("camembert-fumeur", 200, 200).pieChart(100, 100, 75, [73, 26], [], "#fff", colors);
+		Raphael("camembert-alcool", 200, 200).pieChart(100, 100, 75, [70, 30], [], "#fff", colors);
+		Raphael("camembert-drogue", 200, 200).pieChart(100, 100, 75, [65, 35], [], "#fff", colors);
 	</script>
 
 	<!-- Impress.js -->

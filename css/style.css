@@ -139,7 +139,10 @@ blockquote p {
     font-size: 24px;
 }
 
-#lien-suite img {
+.next-part {
+    text-align: center;
+}
+.next-part img {
     width: 50%;
 }
 
@@ -207,6 +210,8 @@ blockquote p {
     width: 25%;
 }
 
+.impress-on-google-search-diff .step.google-philo,
+.impress-on-google-search-bubble .step.google-philo,
 .impress-on-google-search-csq-1 .step.google-philo,
 .impress-on-google-search-csq-2 .step.google-philo {
     opacity: 0;
