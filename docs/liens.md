@@ -117,4 +117,3 @@ http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depui
 ### 3.2.7 - GnuPG, TrueCrypt
 
 # Ouverture : TextSecure et RedPhone
-\
