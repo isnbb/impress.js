@@ -8,7 +8,8 @@ Pub et vie privee (Firefox Flicks) : https://www.youtube.com/watch?v=AN91VeHdGwI
 
 ### 1.1.1 - Facebook
 
-http://korben.info/laissez-leur-au-moins-ce-choix.html
+* http://korben.info/laissez-leur-au-moins-ce-choix.html
+* http://lexpansion.lexpress.fr/high-tech/dis-moi-ce-que-tu-aimes-sur-facebook-je-te-dirais-qui-tu-es_376185.html
 
 ### 1.1.2 - Google
 
