@@ -69,7 +69,7 @@ Expérience backdoor Sksype : http://lists.randombit.net/pipermail/cryptography/
 
 ## 2.1 - Une vie privée qui devient publique
 
-## 2.2 - Le contrôle des états ; l'infantisation de la société
+## 2.2 - Le contrôle des états ; l'infantilisation de la société
 
 Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-rien-a-cacher-mais-vous-avez-quelque-chose-a-craindre/
 

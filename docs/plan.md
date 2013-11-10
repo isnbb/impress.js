@@ -15,7 +15,7 @@
 ===
 
 2.1 - Une vie privée qui devient publique `Eloi`  
-2.2 - Le contrôle des états ; l'infantisation de la société (communisme) `Simon`  
+2.2 - Le contrôle des États ; l'infantilisation de la société (communisme) `Simon`  
 2.3 - La centralisation des données (nazisme, Allemagne décentralisée) + Le scénario possible `Arnaud`  
 2.4 - Whistleblowers  
   2.4.1 - Julian Assange, WikiLeaks `Arnaud`  
