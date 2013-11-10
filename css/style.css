@@ -186,6 +186,12 @@ blockquote p {
     opacity: 0;
 }
 
+.impress-on-google-philo-2 .step:not(.google-philo),
+.impress-on-google-philo-3 .step:not(.google-philo),
+.impress-on-google-philo-4 .step:not(.google-philo) {
+    opacity: 0;
+}
+
 /* OVERVIEW */
 #overview { display: none }
 
