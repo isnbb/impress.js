@@ -4,7 +4,8 @@
 1.1 - Les entreprises : publicité et vente de données `Eloi`  
   1.1.1 - Facebook `Arnaud`  
   1.1.2 - Google `Simon`  
-1.2 - Les États : contrôle des citoyens (NSA = États-Unis et "Infrastructure mutualisée" = France) `Simon`  
+1.2 - Les États : contrôle des citoyens (NSA = États-Unis et "Infrastructure mutualisée" = France) `Simon` 
+  1.2.1 - Les backdoors de la NSA `Alexis`
 
 2 - Pourquoi garder le contrôle de nos données est-il important ?
 ===
