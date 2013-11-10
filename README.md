@@ -8,4 +8,4 @@ Un exposé d'ISN sur la vie privée sur Internet.
 Infos techniques
 ---
 
-* Icones symboliques de GNOME : http://raspberrypi/private/files/gnome-icons/
+* Icones symboliques de GNOME : http://emersion.fr/private/files/gnome-icons/
