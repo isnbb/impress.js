@@ -10,6 +10,7 @@ A travers tous ses services :
 * Moteur de recherche : recherches et clics
 * Chrome : sites visités et autres données personnelles
 * Youtube : recherches et vidéos visionnées, aimées, ...
+* Now : quotidien de l'utilisateur
 * Maps : recherches, localisation, itinéraires
 * Gmail : analyse du contenu de vos e-mails (http://www.theguardian.com/technology/2013/aug/14/google-gmail-users-privacy-email-lawsuit)
 * Ads : des publicités sont affichées sur un grand nombre de sites. Google sait donc que vous visitez ces sites, grâce aux cookies qu'il enregistre sur votre ordinateur (expliqué plus loin).
@@ -19,6 +20,8 @@ A travers tous ses services :
 * Traduction
 * Play : produits téléchargés ou achetés
 * Hangouts : messages
+
+Google Glass : tout est directement envoye sur les serveurs de Google.
 
 Et tous ces services sont reliées, les données collectées sont centralisées.
 

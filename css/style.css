@@ -157,13 +157,9 @@ blockquote p {
 
 /* 1.1.2. GOOGLE */
 
-#google-products .row img {
-    max-width: 100%;
-}
-
-#google-products .row img {
+#google-products .products .logos {
     position: relative;
-    top: 350px;
+    top: 450px;
 
     -webkit-transition: 0.5s;
     -moz-transition:    0.5s;
@@ -171,9 +167,15 @@ blockquote p {
     -o-transition:      0.5s;
     transition:         0.5s;
 }
-
-#google-products.present .row img, .impress-on-google-centralized .row img {
+#google-products.present .products .logos,
+.impress-on-google-centralized .products .logos {
     top: 0px;
+}
+#google-products .products img {
+    max-width: 100%;
+}
+#google-products .spacer {
+    height: 200px;
 }
 
 .impress-on-google-centralized #google-products {
@@ -197,10 +199,10 @@ blockquote p {
     -o-animation: google_move_arrow 3s linear 0s infinite;
     animation: google_move_arrow 3s linear 0s infinite;
 }
-@-webkit-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
-@-moz-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
-@-o-keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
-@keyframes google_move_arrow { from { top: 100px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@-webkit-keyframes google_move_arrow { from { top: 50px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@-moz-keyframes google_move_arrow { from { top: 50px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@-o-keyframes google_move_arrow { from { top: 50px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
+@keyframes google_move_arrow { from { top: 50px; opacity: 0; } 50% { opacity: 1; } to { top: -150px; opacity: 0; }  }
 
 #google-because {
     opacity: 0;
@@ -226,6 +228,7 @@ blockquote p {
     opacity: 0;
 }
 
+.impress-on-google-philo-1 .step:not(.google-philo),
 .impress-on-google-philo-2 .step:not(.google-philo),
 .impress-on-google-philo-3 .step:not(.google-philo),
 .impress-on-google-philo-4 .step:not(.google-philo) {
