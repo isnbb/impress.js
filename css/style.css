@@ -235,6 +235,16 @@ blockquote p {
     opacity: 0;
 }
 
+/*1.2.5. FRANCE*/
+#schema img {
+    width: 80%;
+}
+
+#orange-alcatel img.alcatel {
+    float: right;
+    width: 60%;
+}
+
 /* OVERVIEW */
 #overview { display: none }
 

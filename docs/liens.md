@@ -94,6 +94,8 @@ Chiffrement, les outils (7 articles) : http://www.framablog.org/index.php/post/c
 
 ### 3.2.1 - HTTPS (sslstrip)
 
+http://korben.info/quelles-societes-chiffrent-les-donnees-de-ses-utilisateurs.html
+
 ### 3.2.2 - Pourquoi est-il important de supprimer ses cookies
 
 ### 3.2.3 - Firefox, logiciels libres en général
