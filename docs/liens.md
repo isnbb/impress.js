@@ -15,6 +15,8 @@ Pub et vie privee (Firefox Flicks) : https://www.youtube.com/watch?v=AN91VeHdGwI
 
 Google mis en demeure par la CNIL : http://www.lemonde.fr/technologies/article/2013/09/27/donnees-personnelles-la-france-engage-une-procedure-contre-google_3486226_651865.html
 
+http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-247726
+
 ## 1.2 - Les États : contrôle des citoyens (NSA = États-Unis et "Infrastructure mutualisée" = France)
 
 * NSA, schema interactif : http://www.lemonde.fr/technologies/visuel_interactif/2013/08/27/plongee-dans-la-pieuvre-de-la-cybersurveillance-de-la-nsa_3467057_651865.html (version allegee : http://www.lemonde.fr/mmpub/edt/zip/20131021/095437/index.html)
