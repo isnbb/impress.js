@@ -235,7 +235,16 @@ blockquote p {
     opacity: 0;
 }
 
-/*1.2.5. FRANCE*/
+/* 1.2. ETATS */
+
+#nsa-graph iframe,
+#prism-manual iframe {
+    width: 100%;
+    height: 680px;
+    border: none;
+}
+
+/* 1.2.5. FRANCE */
 #schema img {
     width: 80%;
 }
