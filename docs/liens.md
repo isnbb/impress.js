@@ -30,6 +30,7 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 * http://www.pcinpact.com/news/83927-la-nsa-recupere-en-moyenne-500-000-carnets-dadresses-par-jour.htm
 * http://www.pcinpact.com/news/82232-la-nsa-espionne-ponctuellement-contenu-smartphones.htm
 * NSA qui pirate Google et Yahoo! : http://korben.info/nsa-pirate-google-yahoo.html
+* Manuel d'utilisation : http://www.theguardian.com/world/interactive/2013/nov/01/prism-slides-nsa-document
 
 ### 1.2.2 - Les programmes _upstream_ (interception dans l'infrastructure : cables...)
 
