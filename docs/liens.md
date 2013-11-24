@@ -40,23 +40,19 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 
 ### 1.2.3 - Programmes Bullrun (USA) et Edgehill (anglais) : backdoors
 
-http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm
+* http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm
+* Backdoors : http://www.pcinpact.com/news/82200-la-nsa-a-transforme-internet-en-vaste-plateforme-surveillance.htm
+* Backdoor _NSAKEY dans Windaube : http://www.undernews.fr/anonymat-cryptographie/vie-privee-la-nsa-soctroie-un-backdoor-dans-tous-les-systemes-windows.html
+* Wikipedia sur les portes dérobées : http://fr.wikipedia.org/wiki/Porte_d%C3%A9rob%C3%A9e
+* Backdoor Linus Torvalds : http://www.numerama.com/magazine/27033-linus-torvalds-avoue-des-pressions-pour-mettre-un-backdoor-dans-linux.html
+* Expérience backdoor Sksype : http://lists.randombit.net/pipermail/cryptography/2013-May/004224.html
 
 ### 1.2.4 - XKeyScore, le moteur de recherche
 
 ### 1.2.5 - Et en France ?
 
-Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
-
-NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
-
-### 1.2.1 - Les backdoors de la NSA
-
-Backdoors : http://www.pcinpact.com/news/82200-la-nsa-a-transforme-internet-en-vaste-plateforme-surveillance.htm
-Backdoor _NSAKEY dans Windaube : http://www.undernews.fr/anonymat-cryptographie/vie-privee-la-nsa-soctroie-un-backdoor-dans-tous-les-systemes-windows.html
-Wikipedia sur les portes dérobées : http://fr.wikipedia.org/wiki/Porte_d%C3%A9rob%C3%A9e
-Backdoor Linus Torvalds : http://www.numerama.com/magazine/27033-linus-torvalds-avoue-des-pressions-pour-mettre-un-backdoor-dans-linux.html
-Expérience backdoor Sksype : http://lists.randombit.net/pipermail/cryptography/2013-May/004224.html
+* Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
+* NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
 
 # 2 - Pourquoi garder le contrôle de nos données est-il important ?
 
