@@ -31,6 +31,7 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 * http://www.pcinpact.com/news/82232-la-nsa-espionne-ponctuellement-contenu-smartphones.htm
 * NSA qui pirate Google et Yahoo! : http://korben.info/nsa-pirate-google-yahoo.html
 * Manuel d'utilisation : http://www.theguardian.com/world/interactive/2013/nov/01/prism-slides-nsa-document
+* + de 50 000 reseaux infectes paer la NSA : http://www.pcinpact.com/news/84589-plus-50-000-reseaux-informatiques-infectes-par-nsa-via-malwares.htm
 
 ### 1.2.2 - Les programmes _upstream_ (interception dans l'infrastructure : cables...)
 
@@ -56,6 +57,8 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 * NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
 
 # 2 - Pourquoi garder le contrôle de nos données est-il important ?
+
+* 8 excuses communes : https://www.eff.org/deeplinks/2013/11/busting-eight-common-excuses-nsa-surveillance
 
 ## 2.1 - Une vie privée qui devient publique
 
