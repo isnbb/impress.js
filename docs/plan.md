@@ -8,7 +8,7 @@
   * 1.2.1 - Les programmes _downstream_ (acces direct aux serveurs des entreprises)
   * 1.2.2 - Les programmes _upstream_ (interception dans l'infrastructure : cables...)
   * 1.2.3 - Programmes Bullrun (USA) et Edgehill (anglais) : backdoors `Alexis`
-  * 1.2.4 - XKeyScore, le moteur de recherche
+  * 1.2.4 - XKeyScore, le moteur de recherche `Eloi`
   * 1.2.5 - Et en France ? `Arnaud`
 
 2 - Pourquoi garder le contrôle de nos données est-il important ?
