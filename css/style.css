@@ -263,6 +263,22 @@ blockquote p {
     background-color: rgba(0,0,0,0.07);
 }
 
+#schema-tres-backdoor {
+	opacity: 0;
+}
+
+.impress-on-schema-tres-backdoor #schema-pas-backdoor {
+	opacity: 0;
+}
+
+.impress-on-schema-tres-backdoor #tres-intro-schema {
+	opacity: 0;
+}
+
+.impress-on-schema-tres-backdoor #schema-tres-backdoor {
+	opacity: 1;
+}
+
 /*
     And as the last thing there is a workaround for quite strange bug.
     It happens a lot in Chrome. I don't remember if I've seen it in Firefox.
