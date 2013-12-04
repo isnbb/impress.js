@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nouveau document 1.2013_11_30_18_55_22.0.svg">
+   sodipodi:docname="schema_pas_backdoor.svg">
   <defs
      id="defs4">
     <marker
@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1183594"
-     inkscape:cx="497.38673"
-     inkscape:cy="316.30685"
+     inkscape:zoom="0.89337694"
+     inkscape:cx="563.72693"
+     inkscape:cy="373.61879"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -165,43 +165,7 @@
        id="path3766"
        d="m 147.31926,684.15405 228.88229,-0.63227"
        style="fill:#0000ff;stroke:#032cff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3768"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       transform="translate(41.13168,325.25687)"><flowRegion
-         id="flowRegion3770"><rect
-           id="rect3772"
-           width="151.11421"
-           height="27.719175"
-           x="163.63255"
-           y="134.27261" /></flowRegion><flowPara
-         id="flowPara3774"
-         style="fill:#ff0000">Utilisateur</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3776"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       transform="translate(92.099196,278.76019)"><flowRegion
-         id="flowRegion3778"><rect
-           id="rect3780"
-           width="123.39506"
-           height="36.660866"
-           x="127.86588"
-           y="481.20941" /></flowRegion><flowPara
-         style="fill:#ff0000"
-         id="flowPara3836">Logiciel</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3784"
-       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       transform="translate(126.07755,287.70185)"><flowRegion
-         id="flowRegion3786"><rect
-           id="rect3788"
-           width="190.45757"
-           height="59.015018"
-           x="569.58435"
-           y="476.73856" /></flowRegion><flowPara
-         id="flowPara3790"
-         style="fill:#ff0000">Serveur</flowPara></flowRoot>    <path
+    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend)"
        d="m 251.9602,191.47828 0,45.76071"
        id="path3798"
@@ -280,5 +244,42 @@
        id="path3832"
        d="m 390.11153,597.12669 220.97889,0"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)" />
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="198.12465"
+       y="481.49454"
+       id="text3025"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="198.12465"
+         y="481.49454"
+         id="tspan3029">Utilisateur</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="218.27292"
+       y="781.47992"
+       id="text3033"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3035"
+         x="218.27292"
+         y="781.47992">Logiciel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       x="701.83136"
+       y="788.19598"
+       id="text3037"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3039"
+         x="701.83136"
+         y="788.19598">Serveur</tspan><tspan
+         sodipodi:role="line"
+         x="701.83136"
+         y="819.44598"
+         id="tspan3041" /></text>
   </g>
 </svg>
