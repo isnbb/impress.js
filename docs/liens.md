@@ -68,7 +68,8 @@ Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-ri
 
 ## 2.3 - La centralisation des données (nazisme, Allemagne décentralisée) + Le scénario possible
 
-Censure au Royaume-Uni : http://pixellibre.net/2013/08/le-royaume-uni-glisse-vers-quelque-chose-de-bien-pire-que-la-censure/
+* Censure au Royaume-Uni : http://pixellibre.net/2013/08/le-royaume-uni-glisse-vers-quelque-chose-de-bien-pire-que-la-censure/
+* La NSA collecte des données personnelles pour discréditer ses cibles : http://www.pcinpact.com/news/84618-la-nsa-collecte-donnees-personnelles-pour-discrediter-ses-cibles.htm
 
 Surveillance et democratie : http://www.framablog.org/index.php/post/2013/10/20/stallman-surveillance-democratie
 
@@ -117,3 +118,5 @@ http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depui
 ### 3.2.7 - GnuPG, TrueCrypt
 
 # Ouverture : TextSecure et RedPhone
+
+* 5 **milliards** de positions geographiques recuperees chaque jour : http://www.pcinpact.com/news/84750-la-nsa-enregistre-cinq-milliards-positions-geographiques-par-jour.htm
