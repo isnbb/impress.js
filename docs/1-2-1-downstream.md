@@ -18,4 +18,10 @@ Selon les E-U ce programme est legal (autorise par le FISC, juste apres le 11 se
 
 Les 9 entreprises dementent en bloc ces affirmations. Les seuls acces se font au cas par cas, dans un cadre judiciaire (loi FISA).
 
-[Programme Musclar]
+[Programme Musclar : exemple avec Google]
+
+Accès direct aux communications dans les réseaux de Google et Yahoo. Les communications sont chiffrées à l'extérieur du réseau mais déchiffrées dans le réseau privé. C'est à cet endroit que la NSA "pompe" toutes les données.
+
+[50 000 réseaux infectés]
+
+Plus de 50 000 réseaux ont été infectés par la NSA à l'aide de malwares (programmes malveillants). Réseaux gouvernementaux ou d'entreprises.
