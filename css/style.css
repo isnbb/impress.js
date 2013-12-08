@@ -237,6 +237,11 @@ blockquote p {
 
 /* 1.2. ETATS */
 
+#states-overview img {
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
 #nsa-graph iframe,
 #prism-manual iframe {
     width: 100%;
