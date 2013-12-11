@@ -284,6 +284,46 @@ blockquote p {
 	opacity: 1;
 }
 
+#backdoor-raisons, #backdoor-grosses-raisons {
+opacity: 0;
+}
+
+.impress-on-backdoor-raisons #backdoor-raisons {
+	opacity: 1;
+}
+
+.impress-on-backdoor-grosses-raisons #backdoor-raisons {
+	opacity: 1;
+}
+
+.impress-on-backdoor-grosses-raisons #backdoor-grosses-raisons {
+	opacity: 1;
+}
+
+.impress-on-backdoor-raisons #PUISSAUCE {
+	opacity: 0;
+}
+
+.impress-on-backdoor-grosses-raisons #PUISSAUCE {
+	opacity: 0;
+}
+
+#backdoor-skype-logs {
+opacity: 0;
+}
+
+.impress-on-backdoor-skype-logs #backdoor-skype-logs {
+	opacity: 1;
+}
+
+#NORAJ-DE-MON-LINUXAGE {
+opacity: 0;
+}
+
+.impress-on-NORAJ-DE-MON-LINUXAGE #NORAJ-DE-MON-LINUXAGE {
+	opacity: 1;
+}
+
 /*
     And as the last thing there is a workaround for quite strange bug.
     It happens a lot in Chrome. I don't remember if I've seen it in Firefox.
