@@ -60,6 +60,11 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 
 * Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
 * NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
+*http://korben.info/les-juges-ca-ne-sert-rien.html
+* http://www.laquadrature.net/fr/loi-de-programmation-militaire-une-grave-atteinte-aux-libertes-et-aux-droits-fondamentaux-enterinee
+* http://www.pcinpact.com/news/84680-comment-va-sorganiser-surveillance-dinternet-en-france.htm
+* http://www.pcinpact.com/news/84843-surveillance-dinternet-senat-vote-article-13.htm
+
 
 # 2 - Pourquoi garder le contrôle de nos données est-il important ?
 
