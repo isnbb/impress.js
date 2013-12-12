@@ -1,5 +1,7 @@
 Site sur le sujet par La Quadrature du Net : http://www.controle-tes-donnees.net/
 
+The Guardian : http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded
+
 # 1 - Qui nous surveille et dans quel but ?
 
 ## 1.1 - Les entreprises : publicité et vente de données
@@ -32,6 +34,7 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 * NSA qui pirate Google et Yahoo! : http://korben.info/nsa-pirate-google-yahoo.html
 * Manuel d'utilisation : http://www.theguardian.com/world/interactive/2013/nov/01/prism-slides-nsa-document
 * + de 50 000 reseaux infectes paer la NSA : http://www.pcinpact.com/news/84589-plus-50-000-reseaux-informatiques-infectes-par-nsa-via-malwares.htm
+* https://fr.wikipedia.org/wiki/PRISM_%28programme_de_surveillance%29
 
 ### 1.2.2 - Les programmes _upstream_ (interception dans l'infrastructure : cables...)
 
