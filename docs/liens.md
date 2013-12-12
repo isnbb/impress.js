@@ -51,6 +51,11 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 
 ### 1.2.4 - XKeyScore, le moteur de recherche
 
+* Article de "Der Spiegel" : http://www.spiegel.de/international/world/new-nsa-leaks-describe-total-surveillance-system-xkeyscore-a-914244.html
+* Présentation : http://fr.wikipedia.org/wiki/XKeyscore
+* Citation : http://www.lemonde.fr/technologies/article/2013/07/31/l-outil-qui-permet-a-la-nsa-d-examiner-quasiment-tout-ce-que-fait-un-individu-sur-internet_3455916_651865.html
+* Article de "La Recherche" sur le Big Data (version papier)
+
 ### 1.2.5 - Et en France ?
 
 * Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
