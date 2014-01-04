@@ -65,13 +65,13 @@ Pub et vie privee (Firefox Flicks) : https://www.youtube.com/watch?v=AN91VeHdGwI
 * http://www.pcinpact.com/news/84680-comment-va-sorganiser-surveillance-dinternet-en-france.htm
 * http://www.pcinpact.com/news/84843-surveillance-dinternet-senat-vote-article-13.htm
 
-# 2 - Pourquoi garder le contrôle de nos données est-il important ?
+# 2 - Garder le contrôle de nos données est-il important ?
 
 * 8 excuses communes : https://www.eff.org/deeplinks/2013/11/busting-eight-common-excuses-nsa-surveillance
 
 ## 2.1 - Une vie privée qui devient publique
 
-## 2.2 - Le contrôle des états ; l'infantilisation de la société
+## 2.2 - Le contrôle des états & l'infantilisation de la société : "rien a cacher"
 
 Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-rien-a-cacher-mais-vous-avez-quelque-chose-a-craindre/
 
@@ -79,10 +79,8 @@ Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-ri
 
 * Censure au Royaume-Uni : http://pixellibre.net/2013/08/le-royaume-uni-glisse-vers-quelque-chose-de-bien-pire-que-la-censure/
 * La NSA collecte des données personnelles pour discréditer ses cibles : http://www.pcinpact.com/news/84618-la-nsa-collecte-donnees-personnelles-pour-discrediter-ses-cibles.htm
-
-Surveillance et democratie : http://www.framablog.org/index.php/post/2013/10/20/stallman-surveillance-democratie
-
-Pursuit, un Internet 100% decentralise : http://korben.info/vers-une-architecture-dinternet-100-decentralisee.html
+* Surveillance et democratie : http://www.framablog.org/index.php/post/2013/10/20/stallman-surveillance-democratie
+* Pursuit, un Internet 100% decentralise : http://korben.info/vers-une-architecture-dinternet-100-decentralisee.html
 
 ## 2.4 - Whistleblowers
 
