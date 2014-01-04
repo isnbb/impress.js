@@ -57,7 +57,7 @@ body {
 }
 
 .impress-enabled .step.active {
-    opacity: 1
+    opacity: 1;
 }
 
 .slide q {
@@ -77,6 +77,10 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
+}
+
+small {
+    font-size: 0.7em;
 }
 
 /* BLOCKQUOTES */
@@ -124,6 +128,13 @@ blockquote p {
     padding-left: 40px;
 }
 
+.next-part {
+    text-align: center;
+}
+.next-part img {
+    width: 50%;
+}
+
 /* SLIDES */
 
 /* 1.1.1. FACEBOOK */
@@ -146,13 +157,6 @@ blockquote p {
 
 #camembert p {
     font-size: 24px;
-}
-
-.next-part {
-    text-align: center;
-}
-.next-part img {
-    width: 50%;
 }
 
 /* 1.1.2. GOOGLE */
@@ -259,15 +263,6 @@ blockquote p {
     width: 60%;
 }
 
-/* OVERVIEW */
-#overview { display: none }
-
-.impress-on-overview .step {
-    opacity: 1;
-    cursor: pointer;
-    background-color: rgba(0,0,0,0.07);
-}
-
 /* BACKDOORS */
 
 #schema-tres-backdoor {
@@ -328,12 +323,34 @@ opacity: 0;
 
 /* XKEYSCORE */
 
-#step-5 {
+#xkeyscore-logo {
 opacity: 0;
 }
 
-.impress-on-step-5 #step-5 {
+.impress-on-xkeyscore-logo #xkeyscore-logo {
 	opacity: 1;
+}
+
+/* 2.2. EXCUSES */
+
+#part-2-2 img {
+    width: 25%;
+}
+
+#nothing-to-hide-society .img-container {
+    text-align: center;
+}
+#nothing-to-hide-society .img-container img {
+    width: 25%;
+}
+
+/* OVERVIEW */
+#overview { display: none }
+
+.impress-on-overview .step {
+    opacity: 1;
+    cursor: pointer;
+    background-color: rgba(0,0,0,0.07);
 }
 
 /*
