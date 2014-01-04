@@ -71,6 +71,8 @@ Pub et vie privee (Firefox Flicks) : https://www.youtube.com/watch?v=AN91VeHdGwI
 
 ## 2.1 - Une vie privée qui devient publique
 
+Les gens se "deshabillent" volontairement. Comme dit dans la partie 1, les geants d'Internet + le gouvernement savent tout de nous.
+
 ## 2.2 - Le contrôle des états & l'infantilisation de la société : "rien a cacher"
 
 Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-rien-a-cacher-mais-vous-avez-quelque-chose-a-craindre/
