@@ -15,13 +15,13 @@ Pub et vie privee (Firefox Flicks) : https://www.youtube.com/watch?v=AN91VeHdGwI
 
 ### 1.1.2 - Google
 
-Google mis en demeure par la CNIL : http://www.lemonde.fr/technologies/article/2013/09/27/donnees-personnelles-la-france-engage-une-procedure-contre-google_3486226_651865.html
-
-http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-247726
+* Google mis en demeure par la CNIL : http://www.lemonde.fr/technologies/article/2013/09/27/donnees-personnelles-la-france-engage-une-procedure-contre-google_3486226_651865.html
+* http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-247726
 
 ## 1.2 - Les États : contrôle des citoyens (NSA = États-Unis et "Infrastructure mutualisée" = France)
 
 * NSA, schema interactif : http://www.lemonde.fr/technologies/visuel_interactif/2013/08/27/plongee-dans-la-pieuvre-de-la-cybersurveillance-de-la-nsa_3467057_651865.html (version allegee : http://www.lemonde.fr/mmpub/edt/zip/20131021/095437/index.html)
+* The Guardian (en) : http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded
 * http://www.pcinpact.com/news/82320-nsa-israel-manipule-regulierement-donnees-personnelles-americaines.htm
 * http://www.lesechos.fr/economie-politique/monde/dossier/0203094820415-la-nsa-veut-ecouter-tout-tout-le-temps-623111.php
 * Accords commerciaux et censure : http://www.framablog.org/index.php/post/2013/10/18/geektionnerd-tafta
@@ -54,18 +54,29 @@ http://www.rue89.com/2013/11/21/vie-privee-anomalie-les-dogmes-flippants-google-
 
 ### 1.2.4 - XKeyScore, le moteur de recherche
 
+* Article de "Der Spiegel" : http://www.spiegel.de/international/world/new-nsa-leaks-describe-total-surveillance-system-xkeyscore-a-914244.html
+* Présentation : http://fr.wikipedia.org/wiki/XKeyscore
+* Citation : http://www.lemonde.fr/technologies/article/2013/07/31/l-outil-qui-permet-a-la-nsa-d-examiner-quasiment-tout-ce-que-fait-un-individu-sur-internet_3455916_651865.html
+* Article de "La Recherche" sur le Big Data (version papier)
+
 ### 1.2.5 - Et en France ?
 
 * Infrastructure de mutualisation : http://korben.info/infrastructure-de-mutualisation.html
 * NSA et France : http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html
+* http://korben.info/les-juges-ca-ne-sert-rien.html
+* http://www.laquadrature.net/fr/loi-de-programmation-militaire-une-grave-atteinte-aux-libertes-et-aux-droits-fondamentaux-enterinee
+* http://www.pcinpact.com/news/84680-comment-va-sorganiser-surveillance-dinternet-en-france.htm
+* http://www.pcinpact.com/news/84843-surveillance-dinternet-senat-vote-article-13.htm
 
-# 2 - Pourquoi garder le contrôle de nos données est-il important ?
+# 2 - Garder le contrôle de nos données est-il important ?
 
 * 8 excuses communes : https://www.eff.org/deeplinks/2013/11/busting-eight-common-excuses-nsa-surveillance
 
 ## 2.1 - Une vie privée qui devient publique
 
-## 2.2 - Le contrôle des états ; l'infantilisation de la société
+Les gens se "deshabillent" volontairement. Comme dit dans la partie 1, les geants d'Internet + le gouvernement savent tout de nous.
+
+## 2.2 - Le contrôle des états & l'infantilisation de la société : "rien a cacher"
 
 Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-rien-a-cacher-mais-vous-avez-quelque-chose-a-craindre/
 
@@ -73,10 +84,8 @@ Rien a cacher ? http://pixellibre.net/2013/08/traduction-vous-navez-peut-etre-ri
 
 * Censure au Royaume-Uni : http://pixellibre.net/2013/08/le-royaume-uni-glisse-vers-quelque-chose-de-bien-pire-que-la-censure/
 * La NSA collecte des données personnelles pour discréditer ses cibles : http://www.pcinpact.com/news/84618-la-nsa-collecte-donnees-personnelles-pour-discrediter-ses-cibles.htm
-
-Surveillance et democratie : http://www.framablog.org/index.php/post/2013/10/20/stallman-surveillance-democratie
-
-Pursuit, un Internet 100% decentralise : http://korben.info/vers-une-architecture-dinternet-100-decentralisee.html
+* Surveillance et democratie : http://www.framablog.org/index.php/post/2013/10/20/stallman-surveillance-democratie
+* Pursuit, un Internet 100% decentralise : http://korben.info/vers-une-architecture-dinternet-100-decentralisee.html
 
 ## 2.4 - Whistleblowers
 
