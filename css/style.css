@@ -135,6 +135,10 @@ blockquote p {
     width: 50%;
 }
 
+.center {
+    text-align: center;
+}
+
 /* SLIDES */
 
 /* 1.1.1. FACEBOOK */
@@ -342,6 +346,26 @@ opacity: 0;
 }
 #nothing-to-hide-society .img-container img {
     width: 25%;
+}
+
+/*2.3 CENTRALISATION*/
+#definition p {
+    text-align: center;
+}
+
+/*3.2.4 TOR*/
+#tor-schema img{
+    text-align: center;
+    width: 100%;
+}
+
+#tor-logo img{
+    text-align: center;
+    width: 100%;
+}
+
+#cavaliers img{
+    width: 100%;
 }
 
 /* OVERVIEW */

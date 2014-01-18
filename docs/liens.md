@@ -103,6 +103,9 @@ PRISM : http://pixellibre.net/2013/07/prism-et-apres/
 
 ### 3.1.2 - Droit à l'oubli
 
+http://fr.wikipedia.org/wiki/Chartes_du_droit_%C3%A0_l%27oubli_num%C3%A9rique
+http://www.zdnet.fr/actualites/droit-a-l-oubli-fausse-bonne-idee-ou-droit-veritable-pour-l-internaute-39794958.htm
+
 ## 3.2 - Se défendre avec des logiciels
 
 Chiffrement, les outils (7 articles) : http://www.framablog.org/index.php/post/chiffrement-maintenant-1
@@ -110,6 +113,8 @@ Chiffrement, les outils (7 articles) : http://www.framablog.org/index.php/post/c
 ### 3.2.1 - HTTPS (sslstrip)
 
 http://korben.info/quelles-societes-chiffrent-les-donnees-de-ses-utilisateurs.html
+http://fr.wikipedia.org/wiki/HyperText_Transfer_Protocol_Secure
+http://en.wikipedia.org/wiki/HTTP_Secure
 
 ### 3.2.2 - Pourquoi est-il important de supprimer ses cookies
 
