@@ -285,8 +285,8 @@ blockquote p {
 	opacity: 1;
 }
 
-#backdoor-raisons, #backdoor-grosses-raisons {
-opacity: 0;
+#backdoor-raisons, #backdoor-grosses-raisons  {
+	opacity: 0;
 }
 
 .impress-on-backdoor-raisons #backdoor-raisons {
@@ -310,7 +310,7 @@ opacity: 0;
 }
 
 #backdoor-skype-logs {
-opacity: 0;
+	opacity: 0;
 }
 
 .impress-on-backdoor-skype-logs #backdoor-skype-logs {
@@ -318,7 +318,7 @@ opacity: 0;
 }
 
 #NORAJ-DE-MON-LINUXAGE {
-opacity: 0;
+	opacity: 0;
 }
 
 .impress-on-NORAJ-DE-MON-LINUXAGE #NORAJ-DE-MON-LINUXAGE {
@@ -328,7 +328,7 @@ opacity: 0;
 /* XKEYSCORE */
 
 #xkeyscore-logo {
-opacity: 0;
+	opacity: 0;
 }
 
 .impress-on-xkeyscore-logo #xkeyscore-logo {
@@ -367,6 +367,51 @@ opacity: 0;
 #cavaliers img{
     width: 100%;
 }
+
+/* La saucisse HTTPS */
+
+#https-cessa {
+	opacity: 0;
+}
+
+.impress-on-https-cessa #https-cessa {
+	opacity: 1;
+}
+
+#https-cert-img3 {
+	opacity: 0;
+}
+
+.impress-on-https-cert-img3 #https-cert-img3 {
+	opacity: 1;
+}
+
+.impress-on-https-cert-img3 #https-cert-img2 {
+	opacity: 0;
+}
+
+#https-PIRATAGE-schema2 {
+	opacity: 0;
+}
+
+.impress-on-https-PIRATAGE-schema2 #https-PIRATAGE-schema2 {
+	opacity: 1;
+}
+
+/* Le droit à l'oubli */
+
+#oubli-amendement-resume {
+	opacity: 0;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement-resume {
+	opacity: 1;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement {
+	opacity: 0;
+}
+
 
 /* OVERVIEW */
 #overview { display: none }
