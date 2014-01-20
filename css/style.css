@@ -368,6 +368,26 @@ opacity: 0;
     width: 100%;
 }
 
+/*3.2.2 Cookies*/
+#unegual {
+    font-size: 300px;
+}
+
+#unegual .img-container {
+    width: 50%;
+    float: right;
+}
+
+#unegual .img-container {
+    width: 50%;
+    float: left;
+}
+
+#like-button img{
+    width: 100%;
+    text-align: center;
+}
+
 /* OVERVIEW */
 #overview { display: none }
 
