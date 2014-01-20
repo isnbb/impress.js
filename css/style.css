@@ -398,6 +398,21 @@ blockquote p {
 	opacity: 1;
 }
 
+/* Le droit à l'oubli */
+
+#oubli-amendement-resume {
+	opacity: 0;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement-resume {
+	opacity: 1;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement {
+	opacity: 0;
+}
+
+
 /* OVERVIEW */
 #overview { display: none }
 
