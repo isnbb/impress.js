@@ -412,6 +412,12 @@ blockquote p {
 	opacity: 0;
 }
 
+/* Firefox, GNU/Linux et les FOSS */
+
+#part-3-2-3 img {
+    width: 10%;
+}
+
 
 /* OVERVIEW */
 #overview { display: none }
