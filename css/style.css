@@ -419,6 +419,27 @@ blockquote p {
 >>>>>>> ba3fdb9d0a177c0734f18e93b00f374f6c5c6540
 }
 
+/* Le droit à l'oubli */
+
+#oubli-amendement-resume {
+	opacity: 0;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement-resume {
+	opacity: 1;
+}
+
+.impress-on-oubli-amendement-resume #oubli-amendement {
+	opacity: 0;
+}
+
+/* Firefox, GNU/Linux et les FOSS */
+
+#part-3-2-3 img {
+    width: 10%;
+}
+
+
 /* OVERVIEW */
 #overview { display: none }
 
