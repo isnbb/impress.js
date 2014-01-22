@@ -100,13 +100,21 @@ PRISM : http://pixellibre.net/2013/07/prism-et-apres/
 
 ### 3.1.2 - Droit à l'oubli
 
+* http://fr.wikipedia.org/wiki/Chartes_du_droit_%C3%A0_l%27oubli_num%C3%A9rique
+* http://www.zdnet.fr/actualites/droit-a-l-oubli-fausse-bonne-idee-ou-droit-veritable-pour-l-internaute-39794958.htm
+* http://droit-finances.commentcamarche.net/faq/22955-droit-a-l-oubli-numerique-definition
+* http://www.leblog.juliebaron.fr/2012/06/13/droit-a-loubli-une-definition/
+
 ## 3.2 - Se défendre avec des logiciels
 
 Chiffrement, les outils (7 articles) : http://www.framablog.org/index.php/post/chiffrement-maintenant-1
 
 ### 3.2.1 - HTTPS (sslstrip)
 
-http://korben.info/quelles-societes-chiffrent-les-donnees-de-ses-utilisateurs.html
+* http://korben.info/quelles-societes-chiffrent-les-donnees-de-ses-utilisateurs.html
+* http://fr.wikipedia.org/wiki/HyperText_Transfer_Protocol_Secure
+* http://en.wikipedia.org/wiki/HTTP_Secure
+
 
 ### 3.2.2 - Pourquoi est-il important de supprimer ses cookies
 
@@ -123,6 +131,14 @@ http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depui
 ### 3.2.5 - DuckDuckGo
 
 ### 3.2.6 - GNU/Linux
+
+* http://fr.wikipedia.org/wiki/Projet_GNU
+* http://fr.wikipedia.org/wiki/GNU/Linux
+* http://fr.wikipedia.org/wiki/GNU
+* http://fr.wikipedia.org/wiki/Logiciel_libre
+* http://www.controle-tes-donnees.net/outils/GNU_Linux.html
+* http://www.doudoulinux.org/web/francais/documentation/outils-avances/article/preserver-la-vie-privee.html
+* http://korben.info/tails.html
 
 ### 3.2.7 - GnuPG, TrueCrypt
 
