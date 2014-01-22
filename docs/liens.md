@@ -123,6 +123,14 @@ Chiffrement, les outils (7 articles) : http://www.framablog.org/index.php/post/c
 
 ### 3.2.3 - Firefox, logiciels libres en général
 
+* http://fr.wikipedia.org/wiki/Projet_GNU
+* http://fr.wikipedia.org/wiki/GNU/Linux
+* http://fr.wikipedia.org/wiki/GNU
+* http://fr.wikipedia.org/wiki/Logiciel_libre
+* http://www.controle-tes-donnees.net/outils/GNU_Linux.html
+* http://www.doudoulinux.org/web/francais/documentation/outils-avances/article/preserver-la-vie-privee.html
+* http://korben.info/tails.html
+
 Open source : http://tom.preston-werner.com/2011/11/22/open-source-everything.html
 
 Bresil vs. logiciels proprios : http://www.framablog.org/index.php/post/2013/11/07/bresil-snowden-logiciel-libre
@@ -133,17 +141,7 @@ http://www.pcinpact.com/news/82772-la-nsa-tente-percer-defenses-reseau-tor-depui
 
 ### 3.2.5 - DuckDuckGo
 
-### 3.2.6 - GNU/Linux
-
-* http://fr.wikipedia.org/wiki/Projet_GNU
-* http://fr.wikipedia.org/wiki/GNU/Linux
-* http://fr.wikipedia.org/wiki/GNU
-* http://fr.wikipedia.org/wiki/Logiciel_libre
-* http://www.controle-tes-donnees.net/outils/GNU_Linux.html
-* http://www.doudoulinux.org/web/francais/documentation/outils-avances/article/preserver-la-vie-privee.html
-* http://korben.info/tails.html
-
-### 3.2.7 - GnuPG, TrueCrypt
+### 3.2.6 - GnuPG, TrueCrypt
 
 # Ouverture : TextSecure et RedPhone
 
