@@ -438,6 +438,41 @@ blockquote p {
     width: 10%;
 }
 
+/* 2.1-Une vie privée qui devient publique */
+
+#google-img
+{
+	width: 70%;
+}
+.subtitle-subpart
+{
+	font-size: 50px;
+	text-decoration: underline;
+}
+.paragraph_small
+{
+	font-size: 40px;
+}
+.paragraph_smaller
+{
+	font-size: 30px;
+}
+
+/* 3.2.6-GnuPG et TrueCrypt */
+
+#image_smaller
+{
+	width: 30%;
+}
+.image_smaller2
+{
+	width: 50%;
+}
+.middle_align
+{
+	display: block;
+	margin: 0 auto;
+}
 
 /* OVERVIEW */
 #overview { display: none }

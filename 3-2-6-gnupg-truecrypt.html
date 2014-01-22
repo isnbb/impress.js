@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=1024" />
+        <title>La vie privée sur Internet</title>
+
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+        <link href="css/style.css" rel="stylesheet" media="screen"/>
+</head>
+<body class="impress-not-supported">
+        <div class="container">
+                <!-- Message d'erreur si le navigateur est trop vieux -->
+                <div class="fallback-message alert alert-danger">
+                        <p>Le navigateur <b>est un peu à la ramasse</b> et peut ne pas supporter toutes les fonctionnalités requises par impress.js.</p>
+                        <p>Pour plus de magie, utiliser de préférence la dernière version de <b>Lynx</b> (ou de <b>Firefox</b>).</p>
+                </div>
+
+                <div id="impress">
+                        <div id="part-3-2-6" class="step title-subpart" data-x="0" data-y="0">
+                                <h3>3.2.6. GnuPG et TrueCrypt</h3>
+				<img src="img/3/2/6/GnuPG_logo.png" alt=""/><img id="image_smaller" src="img/3/2/6/truecrypt_logo.png" alt=""/>
+                        </div>
+						<div class="step" data-x="+=0" data-y="+=1000">
+							<p style="text-align: center">Qu'est-ce que GnuPG et TrueCrypt ?</p>
+						</div>
+						<div class="step" data-x="+=2000" data-y="+=0">
+							<p>Le principe de GnuPG est simple...</p>
+							<img src="img/3/2/6/GnuPG_lol.png" alt=""/>
+						</div>
+						<div class="step" data-x="+=0" data-y="+=-1000" data-rotate-z="+=180">
+							<img class="image_smaller2" src="img/3/2/6/crypto1.svg" alt=""/><br/>
+							<img src="img/3/2/6/useless.png" alt=""/><br/>
+							<img class="image_smaller2" src="img/3/2/6/crypto2.svg" alt=""/>
+						</div>
+						<div class="step" data-x="+=2000">
+							<p>Les clés fonctionnent grâce à des fonctions "à sens unique", c'est à dire des fonctions mathématiques qui ne permettent pas de retrouver l'antécédent. De plus, la clé privée est elle-même cryptée par un mot de passe.</p>
+						</div>
+						<div class="step" data-x="+=0" data-y="+=1000" data-rotate-y="+=180">
+							<p>Le principe de TrueCrypt est encore plus simple !</p>
+						</div>
+						<div class="step" data-x="+=0" data-y="+=1000">
+							<p>TrueCrypt permet de crypter des parties de disque dur, à l'aide d'un mot de passe. Ces dernières peuvent ensuite être déplacées, copiées, envoyées...</p>
+						</div>
+						<div class="step" data-x="+=-2000">
+							<p>Et, contrairement à de nombreux logiciels, il a été prouvé que TrueCrype ne contient pas de Backdoor !</p>
+							<img class="middle_align" src="img/3/2/6/EncryptionImage.png" alt=""/>
+						</div>
+                        <div class="step next-part" data-x="+=0" data-y="+=5000">
+                                <a href="fin.html" title="Aller au prochain chapitre"><img src="img/main/down.svg" alt="Suite" class="next"></a>
+                        </div>
+                </div>
+        </div>
+
+        <!-- jQuery -->
+        <script src="js/jquery.min.js"></script>
+
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Impress.js -->
+        <script src="js/impress.js"></script>
+        <script>
+        var partName = '3.2.6';
+        impress().init();
+        </script>
+        <script src="js/impress.kbctl.js"></script>
+</body>
+</html>
