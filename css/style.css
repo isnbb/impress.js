@@ -368,7 +368,6 @@ blockquote p {
     width: 100%;
 }
 
-<<<<<<< HEAD
 /*3.2.2 Cookies*/
 #unegual {
     font-size: 300px;
@@ -387,7 +386,8 @@ blockquote p {
 #like-button img{
     width: 100%;
     text-align: center;
-=======
+}
+
 /* La saucisse HTTPS */
 
 #https-cessa {
@@ -416,7 +416,6 @@ blockquote p {
 
 .impress-on-https-PIRATAGE-schema2 #https-PIRATAGE-schema2 {
 	opacity: 1;
->>>>>>> ba3fdb9d0a177c0734f18e93b00f374f6c5c6540
 }
 
 /* Le droit à l'oubli */
